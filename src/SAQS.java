@@ -53,7 +53,7 @@ public class SAQS {
     MainQueuePanel.setLayout(new GridLayout());
     QueueOutPanel.setLayout(new FlowLayout());
    
-
+//Anything 
 //TopBar_Panel    
     JLabel TopBarLabel = new JLabel("Super Advanced Queue System");
     TopBar_Panel.add(TopBarLabel);
